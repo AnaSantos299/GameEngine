@@ -1,0 +1,36 @@
+﻿  Game.cpp
+D:\Dev2\301Project\301Project\librarys\ReactPhysics3D\include\reactphysics3d\collision\ContactManifold.h(37,26): warning C4099: 'reactphysics3d::ContactManifoldInfo': type name first seen using 'struct' now seen using 'class'
+D:\Dev2\301Project\301Project\librarys\ReactPhysics3D\include\reactphysics3d\collision\ContactManifoldInfo.h(42): message : see declaration of 'reactphysics3d::ContactManifoldInfo'
+D:\Dev2\301Project\301Project\librarys\ReactPhysics3D\include\reactphysics3d\collision\narrowphase\NarrowPhaseInfoBatch.h(38,26): warning C4099: 'reactphysics3d::ContactManifoldInfo': type name first seen using 'struct' now seen using 'class'
+D:\Dev2\301Project\301Project\librarys\ReactPhysics3D\include\reactphysics3d\collision\ContactManifold.h(37): message : see declaration of 'reactphysics3d::ContactManifoldInfo'
+D:\Dev2\301Project\301Project\librarys\ReactPhysics3D\include\reactphysics3d\collision\narrowphase\NarrowPhaseAlgorithm.h(36,26): warning C4099: 'reactphysics3d::ContactManifoldInfo': type name first seen using 'struct' now seen using 'class'
+D:\Dev2\301Project\301Project\librarys\ReactPhysics3D\include\reactphysics3d\collision\narrowphase\NarrowPhaseInfoBatch.h(38): message : see declaration of 'reactphysics3d::ContactManifoldInfo'
+D:\Dev2\301Project\301Project\librarys\ReactPhysics3D\include\reactphysics3d\collision\shapes\HeightFieldShape.h(197,104): warning C4244: 'return': conversion from 'double' to 'reactphysics3d::decimal', possible loss of data
+D:\Dev2\301Project\301Project\librarys\ReactPhysics3D\include\reactphysics3d\collision\shapes\HeightFieldShape.h(205,19): warning C4244: 'return': conversion from 'reactphysics3d::decimal' to 'int', possible loss of data
+D:\Dev2\301Project\301Project\GameEngine\GameEngine\SpriteComponent.h(35,48): warning C4244: '=': conversion from 'const reactphysics3d::decimal' to 'int', possible loss of data
+D:\Dev2\301Project\301Project\GameEngine\GameEngine\SpriteComponent.h(36,48): warning C4244: '=': conversion from 'const reactphysics3d::decimal' to 'int', possible loss of data
+D:\Dev2\301Project\301Project\GameEngine\GameEngine\ECS.h(84,33): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+D:\Dev2\301Project\301Project\GameEngine\GameEngine\Game.cpp(55): message : see reference to function template instantiation 'T &entity::addComponent<transformComponent,reactphysics3d::PhysicsCommon*,reactphysics3d::PhysicsWorld*&,int,int>(reactphysics3d::PhysicsCommon *&&,reactphysics3d::PhysicsWorld *&,int &&,int &&)' being compiled
+          with
+          [
+              T=transformComponent
+          ]
+  GameObject.cpp
+D:\Dev2\301Project\301Project\librarys\ReactPhysics3D\include\reactphysics3d\collision\ContactManifold.h(37,26): warning C4099: 'reactphysics3d::ContactManifoldInfo': type name first seen using 'struct' now seen using 'class'
+D:\Dev2\301Project\301Project\librarys\ReactPhysics3D\include\reactphysics3d\collision\ContactManifoldInfo.h(42): message : see declaration of 'reactphysics3d::ContactManifoldInfo'
+D:\Dev2\301Project\301Project\librarys\ReactPhysics3D\include\reactphysics3d\collision\narrowphase\NarrowPhaseInfoBatch.h(38,26): warning C4099: 'reactphysics3d::ContactManifoldInfo': type name first seen using 'struct' now seen using 'class'
+D:\Dev2\301Project\301Project\librarys\ReactPhysics3D\include\reactphysics3d\collision\ContactManifold.h(37): message : see declaration of 'reactphysics3d::ContactManifoldInfo'
+D:\Dev2\301Project\301Project\librarys\ReactPhysics3D\include\reactphysics3d\collision\narrowphase\NarrowPhaseAlgorithm.h(36,26): warning C4099: 'reactphysics3d::ContactManifoldInfo': type name first seen using 'struct' now seen using 'class'
+D:\Dev2\301Project\301Project\librarys\ReactPhysics3D\include\reactphysics3d\collision\narrowphase\NarrowPhaseInfoBatch.h(38): message : see declaration of 'reactphysics3d::ContactManifoldInfo'
+D:\Dev2\301Project\301Project\librarys\ReactPhysics3D\include\reactphysics3d\collision\shapes\HeightFieldShape.h(197,104): warning C4244: 'return': conversion from 'double' to 'reactphysics3d::decimal', possible loss of data
+D:\Dev2\301Project\301Project\librarys\ReactPhysics3D\include\reactphysics3d\collision\shapes\HeightFieldShape.h(205,19): warning C4244: 'return': conversion from 'reactphysics3d::decimal' to 'int', possible loss of data
+  Generating code
+  0 of 339 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  GameEngine.vcxproj -> D:\Dev2\301Project\301Project\GameEngine\Release\GameEngine.exe
